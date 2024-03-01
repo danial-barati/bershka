@@ -2,9 +2,9 @@
 
 ** a shop by react.js **
 
-![view](https://github.com/danial-barati/tic-tac-toe/assets/104683176/3a242cff-787d-4659-90c1-7c6a653ddeb8)
+![view](https://github.com/danial-barati/bershka/assets/104683176/0d6c8361-6f84-4005-af74-da3e401cae88)
 
-- 🔗 [demo](https://danial-barati.github.io/signup_form/](https://danial-barati.github.io/tic-tac-toe/)
+- 🔗 [demo](https://bershka.vercel.app/)
 
 - 👩🏻‍💻 Developed by danial barati
 
